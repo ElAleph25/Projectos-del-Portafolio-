@@ -1,6 +1,6 @@
 # Clasificación de reseñas positivas y negativas de un hotel
 
-**Código:** [`ClasificadorReseñasRegresiónLogística.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/ClasificadorResen%CC%83asRegresio%CC%81nLogi%CC%81stica.ipynb)
+**Código:** [`Regresión logística para clasificación de reseñas.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/ClasificadorResen%CC%83asRegresio%CC%81nLogi%CC%81stica.ipynb)
 
 **Objetivo:** En un Corpus de reseñas de hoteles de Chicago, clasificar cuáles son las reseñas positivas y cuales no. 
 
