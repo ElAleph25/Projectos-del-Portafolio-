@@ -1,5 +1,5 @@
 
-# Análisis semántico latente para expedientes médicos 
+# Clasificación de expedientes médicos
 **Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA%20para%20expedientes%20me%CC%81dicos.ipynb)
 
 **Objetivo:** Realizar consultas relevantes de expedientes médicos similares.
