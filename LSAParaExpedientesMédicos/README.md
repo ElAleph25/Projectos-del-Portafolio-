@@ -8,7 +8,7 @@
 
 El análisis semántico latente (LSA por sus siglas en inglés), es un método del álgebra lineal númerica que ayuda a comparar la similitud dde de textos vectorizados con la métrica de la similitud del coseno.
 
-El DataSet que se utilizará estará preprocesado para tener resumenes textuales de enfermedades que están catalogadas en 23 categorías.
+El DataSet que se utilizará, tiene 13924 expedientes médicos, y estará preprocesado para tener resumenes textuales de enfermedades que están catalogadas en 23 categorías.
 El conjunto completo de datos se encuentra en [`OHSUMED dataset`](https://www.mat.unical.it/OlexSuite/Datasets/SampleDataSets-about.htm).
 
 **Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (Bolsas de Palabras y TF-IDF), álgebra lineal (descomposición SVD). 
