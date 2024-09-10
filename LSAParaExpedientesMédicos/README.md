@@ -4,13 +4,12 @@
 
 **Objetivo:** Realizar consultas relevantes de expedientes médicos similares.
 
-**Descripción:**
-Un problema en el sector salud, es que surja una enfermedad que provoque una epidemia, pandemia o endemia, que atente con la salud de una gran cantidad de personas en una población. Teniendo en cuenta los sintomas y características de dicha enfermedad, sería útil para los médicos y especialistas poder revisar, en sus bases de datos, los expedientes médicos de muchos pacientes y compararlos entre sí con base a las características la enfermedad. Hacer la comparación de muchos expedientes médicos similares, hace posible identificar a los pacientes con estos síntomas, para después, darles un seguimiento médico para priorizar su salud y prevenir el avance de la enfermedad. En este caso, nuestro DataSet contiene 13924 registros que son expedientes médicos. El conjunto completo de datos se encuentra en [`OHSUMED dataset`](https://www.mat.unical.it/OlexSuite/Datasets/SampleDataSets-about.htm).
+**Descripción:** Se usará un modelo del procesamiento del lenguaje natural para obtener las consultas más relevantes para documentos médicos similares de acuerdo a la similitud en sus palabras. 
 
-El análisis semántico latente (LSA por sus siglas en inglés), es un método del "Procesamiento del Lenguaje Natural" que compara, en un corpus de textos, los documentos más similares. La metodología es, esencialmente: preprocesar y vectorizar textos, utilizar la descomposición singular de matrices
-(SVD) y, finalmente, comparar los textos con la similitud del coseno. 
+El análisis semántico latente (LSA por sus siglas en inglés), es un método del álgebra lineal númerica que ayuda a comparar la similitud dde de textos vectorizados con la métrica de la similitud del coseno.
 
-Es por esto que, LSA, puede ayudarnos a cumplir el propósito de comparar expedientes médicos. 
+El DataSet que se utilizará estará preprocesado para tener resumenes textuales de enfermedades que están catalogadas en 23 categorías.
+El conjunto completo de datos se encuentra en [`OHSUMED dataset`](https://www.mat.unical.it/OlexSuite/Datasets/SampleDataSets-about.htm).
 
 **Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (Bolsas de Palabras y TF-IDF), álgebra lineal (descomposición SVD). 
 
