@@ -1,5 +1,5 @@
 # Predicción de tejidos cancerígenos
-**Código:** [`Perceptrón para tejidos cancerígenos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nParaTejidosCancer%C3%ADgenos/Perceptro%CC%81n%20para%20tejidos%20canceri%CC%81genos.ipynb)
+**Código:** [`Perceptrón para tejidos cancerígenos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Perceptr%C3%B3nLineal/Perceptro%CC%81n%20para%20tejidos%20canceri%CC%81genos.ipynb)
 
 **Objetivo:** Se tratará la predicción de tejidos cancerígenos utilizando imágenes. 
 
