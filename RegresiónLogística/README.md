@@ -1,6 +1,6 @@
 # Análisis de sentimientos en la industria hotelera
 
-**Código:** [`Regresión logística para clasificación de reseñas.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/ClasificadorRese%C3%B1asHoteles/Regresio%CC%81n%20logi%CC%81stica%20para%20clasificacio%CC%81n%20de%20resen%CC%83as.ipynb)
+**Código:** [`Regresión logística para clasificación de reseñas.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/An%C3%A1lisisSem%C3%A1nticoLatente/LSA%20para%20expedientes%20me%CC%81dicos.ipynb)
 
 **Objetivo:** Se tratará el análisis de sentimientos en la industria hotelera.
 
