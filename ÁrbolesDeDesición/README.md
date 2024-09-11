@@ -1,5 +1,5 @@
 # Cálculo del Churn o tasa de abandono
-**Código:** [`Clasificador de clientes Telecom.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/%C3%81rbolesDeDesici%C3%B3n/Clasificador%20de%20clientes%20Telecom.ipynb)
+**Código:** [`Clasificador de clientes Telecom.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Regresi%C3%B3nLog%C3%ADstica/Regresio%CC%81n%20logi%CC%81stica%20para%20clasificacio%CC%81n%20de%20resen%CC%83as.ipynb)
 
 **Objetivo:** Se tratará el tema del cálculo de la tasa de abandono en una compañía telefónica.
 
