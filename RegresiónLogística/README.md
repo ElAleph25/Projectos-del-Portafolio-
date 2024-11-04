@@ -2,7 +2,7 @@
 
 **Código:** [`Regresión logística para clasificación de reseñas.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/Regresi%C3%B3nLog%C3%ADstica/Regresio%CC%81n%20logi%CC%81stica%20para%20clasificacio%CC%81n%20de%20resen%CC%83as.ipynb)
 
-**Problema:** Obtener un clasificador binario de reseñas positivas o negativas para un hotel, que es conocido como un "análisis de sentimientos".
+**Problema:** Obtener un clasificador binario de reseñas positivas o negativas para un hotel. Este problema comúnmente es conocio como "Análisis de Sentimientos".
 
 **Solución:** Se utilizará modelos de machine learning que permiten leer textos e interpretar las relaciones que existen entre las distintas palabras para hacer una mejor predicción. Los modelos del procesamiento del lenguaje natural han revolucionado la mayor parte de las industrias.
 
