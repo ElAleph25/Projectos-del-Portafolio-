@@ -1,4 +1,4 @@
-#Análisis de datos de la NBA
+# Análisis de datos de la NBA
 
 Este repositorio trata sobre un análisis de datos de un data set con información de jugadas de la NBA, desde los años 90, hasta el año 2022. 
 
