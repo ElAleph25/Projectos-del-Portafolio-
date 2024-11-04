@@ -1,4 +1,4 @@
-# Sistema de recomendación de libros
+# Sistema de recomendación de libros (Topic Modeling)
 
 **Código:** [`Recomendación de libros usando LDA.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LDA/Recomendacio%CC%81n%20de%20libros%20usando%20LDA.ipynb)
 
