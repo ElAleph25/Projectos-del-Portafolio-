@@ -7,6 +7,6 @@
 **Solución:** 
 Con el fin de construir un sistema de recomendación de libros, se usará el *aprendizaje no supervizado*, en particular, el algoritmo  **Latent Dirichlet Allocation (LDA)**, para obtener los tópicos principales de los libros refereidos en el dataset.
 
-**Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (Bolsas de Palabras y TF-IDF), álgebra lineal (descomposición SVD). 
+**Skills:** Preprocesamiento de texto (lemmatización y stemming), vectorizar textos (Bolsas de Palabras (BWO)).
 
-**Paquetería:** Python, Pandas, Numpy, Matplotlib, SciPy, Nltk.
+**Paquetería:** Python, Pandas, Numpy, Matplotlib, SciPy, Nltk, sklearn.
