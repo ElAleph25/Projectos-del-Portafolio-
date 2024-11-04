@@ -1,6 +1,6 @@
 # Sistema de recomendación de libros
 
-**Código:** [`LSA para expedientes médicos.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LSAParaExpedientesM%C3%A9dicos/LSA%20para%20expedientes%20me%CC%81dicos.ipynb)
+**Código:** [`Recomendación de libros usando LDA.ipynb`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LDA/Recomendacio%CC%81n%20de%20libros%20usando%20LDA.ipynb)
 
 **Problema:** Se quiere construir un sistema de recomendación de libros basado en los resumentes de los libros y los temas (topicos) de los mismos. Para tal fin, se utilizará el conjunto de datos [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/booksummaries.html).
 
