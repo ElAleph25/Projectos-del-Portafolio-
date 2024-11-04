@@ -1,6 +1,7 @@
 # Análisis de datos de la NBA
 
-Este repositorio trata sobre un análisis de datos[`NBA`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/LDA/Reco de un data set con información de jugadas de la NBA, desde los años 90, hasta el año 2022. 
+Este repositorio trata sobre un análisis de datos[`NBA`](https://github.com/ElAleph25/Projectos-del-Portafolio-/blob/main/NBA/NBA.ipynb)
+de un data set con información de jugadas de la NBA, desde los años 90, hasta el año 2022. 
 
 El objetivo es responder las siguientes preguntas utilizando el dataset obtenido de [Kaggle](https://www.kaggle.com/datasets/nathanlauga/nba-games):
 
